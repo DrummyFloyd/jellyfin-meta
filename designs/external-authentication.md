@@ -1,6 +1,6 @@
 # External authentication built on ASP.NET Core authentication
 
-Status: draft, for discussion. Proposal issue: TBD.
+Status: draft, for discussion. Proposal issue: [jellyfin-meta#157](https://github.com/jellyfin/jellyfin-meta/issues/157).
 
 This document holds the full detail behind the proposal issue: current state, design decisions, and the split into small PRs. Nothing here is final. It is meant to be challenged.
 
